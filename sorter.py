@@ -9,7 +9,6 @@ for file_ in list_:
     name, ext = os.path.splitext(file_)
 
     ext = ext[1:]
-
     if ext == '':
         continue
 
