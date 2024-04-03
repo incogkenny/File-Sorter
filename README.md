@@ -34,9 +34,10 @@ The script utilizes Python's built-in `os` and `shutil` modules to interact with
 
 ## How to Use
 
-1. Modify the `path` variable to specify the location of your download folder.
-2. Run the script. It will automatically organize the files within the specified folder into respective directories based on their file extensions.
-3. **Optional** add the script to Windows Task Scheduler to configure it to run on a schedule. [Here's a guide how to do that.](https://community.esri.com/t5/python-documents/schedule-a-python-script-using-windows-task/ta-p/915861)
+1. Download the [sorter.py](sorter.py) file to a safe place on your device.
+2. Modify the `path` variable to specify the location of your download folder.
+3. Run the script. It will automatically organize the files within the specified folder into respective directories based on their file extensions.
+4. **Optional** add the script to Windows Task Scheduler to configure it to run on a schedule. [Here's a guide how to do that.](https://community.esri.com/t5/python-documents/schedule-a-python-script-using-windows-task/ta-p/915861)
 
 ## Note
 
